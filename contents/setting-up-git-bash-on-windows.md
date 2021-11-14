@@ -10,7 +10,7 @@ The basic steps followed are:
     - The GUI downlaods are [here](https://git-scm.com/download/gui/windows)
   - Install using the defaults (except for the text editor, choose whichever you want)
   - Launch git bash
-  - Run `git config --global user.name "Your Name"
+  - Run `git config --global user.name "Your Name"`
   - Run `git config --global user.email "Your@email"`
   - Check if you have an rsa key at `~/.ssh`. You probably do but if not, create one with `ssh-keygen -t ed25519 -C "your@email"`
   - Run `eval "$(ssh-agent -s)"` to launch a program which keeps your ssh key ready for use
