@@ -43,7 +43,7 @@ This workshop can be done **in groups of 2-3 people**.
 
 **All group members** clone the repository:
 
-6. Open GitHub Desktop
+6. Open Git GUI
 7. Click on **"Clone a repository from the Internet"**
 8. **GitHub.com** → Filter your repositories
 10. Click on “Clone”
