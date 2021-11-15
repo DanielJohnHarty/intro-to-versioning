@@ -13,9 +13,10 @@ The basic steps followed are:
   - Run `git config --global user.name "Your Name"`
   - Run `git config --global user.email "Your@email"`
   - Check if you have an rsa key at `~/.ssh`. You probably do but if not, create one with `ssh-keygen -t ed25519 -C "your@email"`
+    *This will create 2 files, a private key and public key. The public key has the `.pub` suffix. Only ever share the public key!!!*
   - Run `eval "$(ssh-agent -s)"` to launch a program which keeps your ssh key ready for use
-  - Run `ssh-add ~/.ssh/id_rsa` to load your ssh key so it can be used by ssh-agent
-  - Run `clip < ~/.ssh/id_rsa.pub.pub` to copy the contents of your rsa public key to the clip board.
+  - Run `ssh-add ~/.ssh/id_rsa` (or the path of whatever ssh key you want to use) to load your ssh key so it can be used by ssh-agent
+  - Run `clip < ~/.ssh/id_rsa.pub` (or the path of whatever public ssh key you want to use) to copy the contents of your rsa public key to the clip board.
   - Add a new ssh key in your user settings on your github account page. Paste the public key.
   - Make sure that the file `~/.ssh/config` exists and that it has the following content:
     ```
