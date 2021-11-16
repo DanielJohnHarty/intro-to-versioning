@@ -3,7 +3,7 @@ Duration: 3 hours
 
 Fast links:
 
-- [slides](content/slides.pdf) *Use LibreOffice Draw to customise slide 2*
+- [slides](content/slides.pdf)
 - [content in Markdown](content/index.md)
 - [lab](content/lab.md)
 - [homework](content/homework.md)
