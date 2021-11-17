@@ -6,8 +6,8 @@ There are many options to install git across all operating systems but the major
 The basic steps followed are:
 
   - [Bookmark and read this](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup).
-  - Go to the [official download page](https://git-scm.com/downloads) and download git for Windows.
-    - The git for windows download button [here](https://git-scm.com/download/gui/windows).
+  - Go to the [official download page](https://git-scm.com/downloads) and download git for Windows
+    - The git for windows download button [here](https://git-scm.com/download/gui/windows). ***Download from previous line first!!!***
   - Install using the defaults (except for the text editor - you can choose whichever you want for that).
   - Launch git bash. The following commands should be ran from the git bash terminal. 
   - Run `git config --global user.name "Your Name"`. 
