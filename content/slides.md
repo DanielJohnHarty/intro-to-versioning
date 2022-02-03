@@ -94,7 +94,7 @@
 
 <div style="page-break-after: always;"></div>
 
-# Git repository
+# Git flow
 
 <br><br>
 
