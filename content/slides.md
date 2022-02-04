@@ -1,4 +1,4 @@
-![](https://github.com/DanielJohnHarty/intro-to-versioning/blob/master/content/image/adaltas-logo.png)<br><br>
+![](image/adaltas-logo.png)<br><br>
 <br><br>
 
 # Daniel Harty
@@ -45,7 +45,7 @@
 # Semantic Versioning (tag names)
 <br><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github.com/DanielJohnHarty/intro-to-versioning/blob/master/content/image/semver.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](image/semver.png)
 <br>
 
 * MAJOR - when incompatible API changes
@@ -90,7 +90,7 @@
 # Local vs. remote git repository
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github.com/DanielJohnHarty/intro-to-versioning/blob/master/content/image/git-architecture.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](image/git-architecture.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -143,7 +143,7 @@ Resolved manually:
 
 *1 branch = 1 separate versioning space -> isolation of changes*
 
-![](https://github.com/DanielJohnHarty/intro-to-versioning/blob/master/content/image/git_branch.png)
+![](image/git_branch.png)
 
 <div style="page-break-after: always;"></div>
 
